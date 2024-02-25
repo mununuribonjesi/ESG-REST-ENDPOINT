@@ -103,7 +103,7 @@ The application uses a systematic and structured approach embodying the principl
 - Maps routes to corresponding methods in `CustomerHandler`.
 - Implements request logging through the `RouterTemplate` class.
 
-## `RouterTemplate Class` Class
+## `RouterTemplate` Class
 
 ### Responsibility:
 - Provides a template for logging details about incoming requests and their responses.
