@@ -43,7 +43,7 @@ The application uses a systematic and structured approach embodying the principl
 ## `R2dbcConfig` Class
 
 ### Responsibility:
-- Configures R2DBC, initializing the database.
+- Configures R2DBC, initialising the database.
 - Utilises a ConnectionFactoryInitializer bean to create the customer table if it does not exist using an SQL script.
 
 ### Approach:
